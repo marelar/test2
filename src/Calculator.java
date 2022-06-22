@@ -5,6 +5,8 @@ public class Calculator {
         int operand1;
         int operand2;
         char operation;
+        int x = 0;
+        System.out.println(x);
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter first number");
